@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c1a8e25e-91eb-41c3-911a-491e8cbb1d90": {
+      "ProjectGuid": "c1a8e25e-91eb-41c3-911a-491e8cbb1d90",
+      "DisplayName": "FreeCourse.Services.Catalog",
+      "ColorIndex": 0
+    },
+    "e7f735d7-2839-438f-8c3d-27c95e38e19e": {
+      "ProjectGuid": "e7f735d7-2839-438f-8c3d-27c95e38e19e",
+      "DisplayName": "FreeCourse.Shared",
+      "ColorIndex": 1
+    },
+    "2994f06c-e545-4119-be20-bb6008197ad0": {
+      "ProjectGuid": "2994f06c-e545-4119-be20-bb6008197ad0",
+      "DisplayName": "FreeCourse.IdentityServer",
+      "ColorIndex": 2
+    },
+    "d2ca566a-fa54-46ea-b08d-7b6ad3a8b019": {
+      "ProjectGuid": "d2ca566a-fa54-46ea-b08d-7b6ad3a8b019",
+      "DisplayName": "FreeCourse.Services.PhotoStock",
+      "ColorIndex": 3
+    },
+    "2e72fc9c-880f-446d-a8f8-de6f07f38e06": {
+      "ProjectGuid": "2e72fc9c-880f-446d-a8f8-de6f07f38e06",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 4
+    },
+    "ff77e45e-c43b-4559-86c1-9a0d0e75ce88": {
+      "ProjectGuid": "ff77e45e-c43b-4559-86c1-9a0d0e75ce88",
+      "DisplayName": "FreeCourse.Services.Basket",
+      "ColorIndex": 5
+    },
+    "106a2096-f914-4775-8541-b76721ebda4d": {
+      "ProjectGuid": "106a2096-f914-4775-8541-b76721ebda4d",
+      "DisplayName": "FreeCourse.Services.Discount",
+      "ColorIndex": 6
+    },
+    "8cc83373-db3b-4986-a2ab-2ef08b0b7ada": {
+      "ProjectGuid": "8cc83373-db3b-4986-a2ab-2ef08b0b7ada",
+      "DisplayName": "FreeCourse.Services.Order.Application",
+      "ColorIndex": 7
+    },
+    "6166a349-958a-41c7-a7c2-9eeb792363c7": {
+      "ProjectGuid": "6166a349-958a-41c7-a7c2-9eeb792363c7",
+      "DisplayName": "FreeCourse.Services.Order.Domain",
+      "ColorIndex": 8
+    },
+    "a4ea2b6e-2a7f-4e92-ab61-4a724d5eb91a": {
+      "ProjectGuid": "a4ea2b6e-2a7f-4e92-ab61-4a724d5eb91a",
+      "DisplayName": "FreeCourse.Services.Order.Domain.Core",
+      "ColorIndex": 9
+    },
+    "7f638afe-8e07-457e-9576-b25cd5d82e64": {
+      "ProjectGuid": "7f638afe-8e07-457e-9576-b25cd5d82e64",
+      "DisplayName": "FreeCourse.Services.Order.Infrastructure",
+      "ColorIndex": 10
+    },
+    "384c5596-9f3e-4b93-869d-f265a48cb1a9": {
+      "ProjectGuid": "384c5596-9f3e-4b93-869d-f265a48cb1a9",
+      "DisplayName": "FreeCourse.Services.Order.API",
+      "ColorIndex": 11
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "9ea03837-3268-4cb1-9263-bd835ddc833b": {
+      "ProjectGuid": "9ea03837-3268-4cb1-9263-bd835ddc833b",
+      "DisplayName": "FreeCourse.Services.FakePayment",
+      "ColorIndex": 12
+    },
+    "0611ad23-a5c5-417b-bb74-608e9fb95473": {
+      "ProjectGuid": "0611ad23-a5c5-417b-bb74-608e9fb95473",
+      "DisplayName": "FreeCourse.Gateway",
+      "ColorIndex": 13
+    },
+    "24539167-6d3c-4379-bfd7-574e6d9a18a1": {
+      "ProjectGuid": "24539167-6d3c-4379-bfd7-574e6d9a18a1",
+      "DisplayName": "FreeCourse.Web",
+      "ColorIndex": 14
+    }
+  },
+  "NextColorIndex": 15
+}

@@ -1,0 +1,9 @@
+Commands
+
+docker-compose up  =>"docker compose da yazılan image ların ayağa kalkması"
+
+ctrl-c =>"image ları stop etme"
+
+docker-compose down => "imageların silinmesi"
+
+örnek olarak tek bir image ayağa kaldırılması => docker-compose up discount.api 
